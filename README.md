@@ -5,4 +5,4 @@
 
 ### Dev
 **libraries**
-1. (Raylib-Zig)[https://github.com/Not-Nik/raylib-zig]
+1. [raylib-zig](https://github.com/Not-Nik/raylib-zig)
