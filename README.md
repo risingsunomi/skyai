@@ -1,5 +1,5 @@
 # SkyAI
-## 3D AI avatar framework
+## Customizable AI 3D avatar
 
 **IN DEVELOPMENT**
 
